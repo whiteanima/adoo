@@ -1,0 +1,70 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	
+	
+}
+
+h1{
+	text-align: center;
+}
+
+#pie{
+	position: absolute;
+	top: 1000px;
+	width: 500px;
+	left: 200px;
+	
+}
+
+#bienvenida{
+	background-color: #e5e5e5;
+	color: #7f7f7f;
+}
+#fondo{
+	position: absolute;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	z-index: -1;
+	height: 900px;
+}
+
+#contenedor {
+	position: absolute;
+	background-color: #FFFFFF;
+	width: 700px;
+	height:1080px;
+	left: 300px;
+	font-family: Helvetica;
+	color: #FF0000;
+	font-weight: bold;
+	
+}
+
+#imagen {
+	position: relative;
+	top: 40px;
+	left: 300px;
+}
+
+
+#imagen2{
+	position: absolute;
+	top: 500px;
+	left: 100px;
+}
+
+
+#inversion{
+	position: absolute;
+	left: 400px;
+}
+
+#ventajas {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	bottom: 200px;
+	left: 100px;
+}
